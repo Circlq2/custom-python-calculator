@@ -2,6 +2,7 @@
 ### 10DT assessment
 
 The target auidence is adults.
+
 There are different colours for each type of button:
 1. Normal numbers are plain white.
 2. Operations(+, -, *, /) are purple as a stand out from other colours.
