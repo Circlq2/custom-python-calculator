@@ -1,6 +1,9 @@
 # Custom-Python-Calculator
-## 10DT assessment
-#### E G Wisnewski
+
+---
+E G Wisnewski
+Design and develop a custom python caclulator
+---
 
 The target auidence is adults.
 
