@@ -1,8 +1,7 @@
 # Custom-Python-Calculator
 
 ---
-E G Wisnewski
-Design and develop a custom python caclulator
+Author - E G Wisnewski: Design and develop a custom python caclulator
 ---
 
 The target auidence is adults.
