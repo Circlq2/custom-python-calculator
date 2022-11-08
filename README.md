@@ -1,5 +1,5 @@
 ---
-Author - E G Wisnewski: Design and develop a digital custom python caclulator
+Author - Edward G Wisnewski: Design and develop a digital custom python caclulator
 ---
 
 # Custom-Python-Calculator
